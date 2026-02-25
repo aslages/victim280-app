@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/aslages/victim280-app/blob/main/xss.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/aslages/victim280-app/blob/main/xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
